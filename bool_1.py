@@ -73,4 +73,4 @@ if __name__=="__main__":
 #     list_of_bools = take_correct_bools_instead_of_strings(list_of_str_bools)
 #     print(is_alternate(list_of_bools))
 # except ValueError:
-#     print("Invalid Input!")##
+#     print("Invalid Input!")
