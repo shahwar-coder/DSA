@@ -29,6 +29,7 @@ if __name__=="__main__":
 
 
 """
+Remember: ~i == -i - 1 (IMPORTANT)
 🔍 Mirror Pair Check — Explanation & FAQs
 
 👉 Key Line:
